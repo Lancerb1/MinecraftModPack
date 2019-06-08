@@ -4,12 +4,10 @@ Mods and their configurations required to join the server. Make sure you use bot
 ## Required Minecraft Forge Version
 Use latest version of Minecraft Forge found [here.](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html)
 
-## Mod List
+## Core Mod List
 * AppleCore
 * Applied Energistics
-* _BetterPvP - Optional mod_
 * Big Reactors
-* CodeChickenCore
 * CoFHCore
 * CustomNPCs
 * EnderCore
@@ -18,7 +16,6 @@ Use latest version of Minecraft Forge found [here.](https://files.minecraftforge
 * JapanseMod _(THKaguyaMod)_
 * Level-Up Mod
 * Levels
-* _NotEnoughItems - Optional Mod_
 * OptiFine
 * PamsHarvestCraft
 * ProjectE
