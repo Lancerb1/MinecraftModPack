@@ -22,3 +22,4 @@ Use latest version of Minecraft Forge found [here.](https://files.minecraftforge
 * SimplyJetpacks
 * SolarFlux
 * Spice of Life
+* Vic's Modern Warfare Mod
