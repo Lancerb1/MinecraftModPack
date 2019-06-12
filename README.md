@@ -7,15 +7,12 @@ Use latest version of Minecraft Forge found [here.](https://files.minecraftforge
 ## Core Mod List
 * AppleCore
 * Applied Energistics
-* Big Reactors
-* CoFHCore
 * CustomNPCs
 * EnderCore
 * EnderIO
 * IronChest
 * JapanseMod _(THKaguyaMod)_
 * Level-Up Mod
-* Levels
 * OptiFine
 * PamsHarvestCraft
 * ProjectE
