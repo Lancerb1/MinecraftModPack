@@ -5,6 +5,7 @@ Mods and their configurations required to join the server. Make sure you use bot
 Use latest version of Minecraft Forge found [here.](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html)
 
 ## Core Mod List
+* Animation API
 * AppleCore
 * Applied Energistics
 * Ars Magica 2
