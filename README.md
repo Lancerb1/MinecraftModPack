@@ -7,6 +7,8 @@ Use latest version of Minecraft Forge found [here.](https://files.minecraftforge
 ## Core Mod List
 * AppleCore
 * Applied Energistics
+* Ars Magica 2
+* CoFH Lib
 * CustomNPCs
 * EnderCore
 * EnderIO
@@ -19,3 +21,4 @@ Use latest version of Minecraft Forge found [here.](https://files.minecraftforge
 * SimplyJetpacks
 * SolarFlux
 * Spice of Life
+* Stefinus Weapon Mod
