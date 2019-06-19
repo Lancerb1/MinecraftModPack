@@ -13,6 +13,7 @@ Use latest version of Minecraft Forge found [here.](https://files.minecraftforge
 * CustomNPCs
 * EnderCore
 * EnderIO
+* Flan's Mod Plus
 * IronChest
 * JapanseMod _(THKaguyaMod)_
 * Level-Up Mod
