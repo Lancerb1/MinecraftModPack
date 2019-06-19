@@ -7,7 +7,6 @@ Use latest version of Minecraft Forge found [here.](https://files.minecraftforge
 ## Core Mod List
 * Animation API
 * AppleCore
-* Applied Energistics
 * Ars Magica 2
 * CoFH Lib
 * Crossbow Mod 2
@@ -21,6 +20,5 @@ Use latest version of Minecraft Forge found [here.](https://files.minecraftforge
 * PamsHarvestCraft
 * ProjectE
 * SimplyJetpacks
-* SlashBlade
 * SolarFlux
 * Spice of Life
