@@ -37,7 +37,7 @@
       "statsAddedOnlyOnDrop": false,
       "dropsAsLoot": true
     },
-    "zettaigrimoires:grimmoire_ice": {
+    "zettaigrimoires:grimoire_ice": {
       "itemType": "Staff",
       "isSalvagable": true,
       "dropWeight": 1000,
@@ -55,7 +55,7 @@
       "statsAddedOnlyOnDrop": false,
       "dropsAsLoot": false
     },
-    "zettaigrimoires:grimmoire_flame": {
+    "zettaigrimoires:grimoire_flame": {
       "itemType": "Staff",
       "isSalvagable": true,
       "dropWeight": 1000,
@@ -73,7 +73,7 @@
       "statsAddedOnlyOnDrop": false,
       "dropsAsLoot": false
     },
-    "zettaigrimoires:grimmoire_necromancy": {
+    "zettaigrimoires:grimoire_necromancy": {
       "itemType": "Staff",
       "isSalvagable": true,
       "dropWeight": 1000,
@@ -91,7 +91,7 @@
       "statsAddedOnlyOnDrop": false,
       "dropsAsLoot": false
     },
-    "zettaigrimoires:grimmoire_holy": {
+    "zettaigrimoires:grimoire_holy": {
       "itemType": "Staff",
       "isSalvagable": true,
       "dropWeight": 1000,
@@ -109,7 +109,7 @@
       "statsAddedOnlyOnDrop": false,
       "dropsAsLoot": false
     },
-    "zettaigrimoires:grimmoire_sorcery": {
+    "zettaigrimoires:grimoire_sorcery": {
       "itemType": "Staff",
       "isSalvagable": true,
       "dropWeight": 1000,
@@ -127,7 +127,7 @@
       "statsAddedOnlyOnDrop": false,
       "dropsAsLoot": false
     },
-    "zettaigrimoires:grimmoire_lightning": {
+    "zettaigrimoires:grimoire_lightning": {
       "itemType": "Staff",
       "isSalvagable": true,
       "dropWeight": 1000,
@@ -145,7 +145,7 @@
       "statsAddedOnlyOnDrop": false,
       "dropsAsLoot": false
     },
-    "zettaigrimoires:grimmoire_earth": {
+    "zettaigrimoires:grimoire_earth": {
       "itemType": "Staff",
       "isSalvagable": true,
       "dropWeight": 1000,
