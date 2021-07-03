@@ -436,6 +436,8 @@ minecraft:acacia_fence_gate
 minecraft:acacia_fence
 minecraft:acacia_door
 minecraft:acacia_boat
+endercore:shapeless_paper
+endercore:book_to_paper
 endercore:slabwoodoak_to_planks
 endercore:slabwoodspruce_to_planks
 endercore:slabwoodbirch_to_planks
@@ -449,8 +451,6 @@ endercore:slabbricks_to_brick_block
 endercore:slabstonebricks_to_stonebrick
 endercore:slabnetherbrick_to_nether_brick
 endercore:slabquartz_to_quartz_block
-endercore:shapeless_paper
-endercore:book_to_paper
 chiselsandbits:wrench_wood
 chiselsandbits:tape_measure
 chiselsandbits:positiveprint_alt
