@@ -35,6 +35,13 @@ ebwizardry:freezing_weapon
 ebwizardry:magic_protection
 ebwizardry:frost_protection
 ebwizardry:shock_protection
+endercore:xpboost
+endercore:autosmelt
+enderio:soulbound
+enderio:shimmer
+enderio:repellent
+enderio:witherweapon
+enderio:witherarrow
 gravestone-extended:gs_vampiric_touch
 gravestone-extended:gs_poisoned_blade
 gravestone-extended:gs_withered_blade
@@ -55,3 +62,4 @@ spartanweaponry:throwing_damage
 spartanweaponry:throwing_fire
 spartanweaponry:throwing_luck
 naturalabsorption:absorption
+simplyjetpacks:fuel_efficiency

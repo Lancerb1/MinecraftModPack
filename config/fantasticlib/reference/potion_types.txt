@@ -37,6 +37,13 @@ minecraft:long_weakness
 minecraft:luck
 epicfight:stun_immunity
 epicfight:stun_immunity_long
+enderio:confusion
+enderio:long_confusion
+enderio:withering
+enderio:long_withering
+enderio:floating
+enderio:strong_floating
+enderio:long_floating
 gravestone-extended:gs_purification_type
 gravestone-extended:gs_rust_type
 gravestone-extended:gs_bone_skin_type
