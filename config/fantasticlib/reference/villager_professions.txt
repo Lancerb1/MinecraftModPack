@@ -1,0 +1,10 @@
+minecraft:farmer
+minecraft:librarian
+minecraft:priest
+minecraft:smith
+minecraft:butcher
+minecraft:nitwit
+matteroverdrive:mad_scientist
+drpmedieval:carpenter
+bewitchment:hedge_witch
+bewitchment:alchemist
